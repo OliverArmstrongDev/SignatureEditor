@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SignatureEditor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="YearOfSignature" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2011</Value>
+    </Setting>
+    <Setting Name="ServerSigLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\Signatures\</Value>
+    </Setting>
+    <Setting Name="NewSigLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\New_Signature\</Value>
+    </Setting>
+    <Setting Name="NewSigImages" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\New_Signature\Images\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
